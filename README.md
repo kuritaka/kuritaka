@@ -17,11 +17,12 @@
 - [kuritaka/dotfiles](https://github.com/kuritaka/dotfiles)
 
 
+<br>
 ## My GUI Software
 - cmdLauncher - Input search type launcher : https://software.oreda.net/cmdlauncher/index.html
 
 
-
+<br>
 ## My Sites
 ### My Sites in English
 - cmdref.net : https://cmdref.net/ - cmdref.net is command references/cheat sheets/examples for system engineers.
@@ -34,6 +35,7 @@
 - クラウドのインフラ技術 : http://cloud.oreda.net/
 - IT英語 - IT技術を使って、効率的に英語を勉強 : https://iteigo.net/
 
+<br>
 ## How to reach me
 - Twitter: https://twitter.com/takaaki_jpn
 - Linkedin: https://www.linkedin.com/in/takaaki-kurihara/
