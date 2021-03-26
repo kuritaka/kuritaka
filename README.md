@@ -20,7 +20,7 @@
 <br>
 
 ## My GUI Software
-- cmdLauncher - Input search type launcher : https://software.oreda.net/cmdlauncher/index.html
+- cmdLauncher - Input search type launcher : https://software.oreda.net/cmdlauncher/
 
 
 <br>
@@ -33,6 +33,7 @@
 ### My Sites in Japanese
 - DokuWikiで情報発信 : https://dokuwiki.oreda.net/
 - 現場で必要なネットワーク技術入門 : https://network.oreda.net/
+- システムパフォーマンス入門 : http://performance.oreda.net/
 - インフラエンジニアのPC環境 : https://pc.oreda.net/
 - クラウドのインフラ技術 : http://cloud.oreda.net/
 - IT英語 - IT技術を使って、効率的に英語を勉強 : https://iteigo.net/
