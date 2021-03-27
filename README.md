@@ -5,13 +5,13 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuritaka" />
 </a>
 
-## My GitHub Project
+## My Private GitHub Project
 ### CLI Tools
 - [kuritaka/fasthandle2](https://github.com/kuritaka/fasthandle2) - Deploy Tool like Python Fabric
 
 ### Web System
 - [kuritaka/SimpleIPAM](https://github.com/kuritaka/SimpleIPAM) - Simple IP address management
-- [kuritaka/mydictionaryreader](https://github.com/kuritaka/mydictionaryreader) - MyDictionaryReader is a web system for dictionaries. 
+- [kuritaka/mydictionaryreader](https://github.com/kuritaka/mydictionaryreader) - MyDictionaryReader is a web system to search with dictionaries. 
 
 ### My Environment
 - [kuritaka/dotfiles](https://github.com/kuritaka/dotfiles)
@@ -25,7 +25,7 @@
 
 <br>
 
-## My Sites
+## My Private Sites
 ### My Sites in English
 - cmdref.net : https://cmdref.net/ - cmdref.net is command references/cheat sheets/examples for system engineers.
 - OREDA Software : https://software.oreda.net/
@@ -34,12 +34,14 @@
 - DokuWikiで情報発信 : https://dokuwiki.oreda.net/
 - 現場で必要なネットワーク技術入門 : https://network.oreda.net/
 - システムパフォーマンス入門 : http://performance.oreda.net/
-- インフラエンジニアのPC環境 : https://pc.oreda.net/
 - クラウドのインフラ技術 : http://cloud.oreda.net/
+- 社内インフラの技術 : https://oa.oreda.net/
+- インフラエンジニアのPC環境 : https://pc.oreda.net/
 - IT英語 - IT技術を使って、効率的に英語を勉強 : https://iteigo.net/
 
 <br>
 
 ## How to reach me
-- Twitter: https://twitter.com/takaaki_jpn
 - Linkedin: https://www.linkedin.com/in/takaaki-kurihara/
+- Twitter(English): https://twitter.com/takaaki_jpn
+- Twitter(Japanese): https://twitter.com/taka_kurihara
