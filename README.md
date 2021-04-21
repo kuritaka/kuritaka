@@ -8,6 +8,7 @@
 ## My Private GitHub Project
 ### CLI Tools
 - [kuritaka/fasthandle2](https://github.com/kuritaka/fasthandle2) - Deployment tool to Execute Remote Command Over SSH like Python Fabric
+- [kuritaka/fasthandle2-samples](https://github.com/kuritaka/fasthandle2-samples) - Shell Scripts Samples for FastHandle2
 
 ### Web System
 - [kuritaka/SimpleIPAM](https://github.com/kuritaka/SimpleIPAM) - Simple IP address management
