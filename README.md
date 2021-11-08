@@ -1,9 +1,17 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kuritaka&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuritaka" />
-</a>
+# I'm Takaaki Kurihara. Please call me Taka.
+
+- I'm IT Infrastracture Engineer in Japan.
+- Server/Network/Storage at Trading Systems | Low Latency
+
+## How to reach me
+- Linkedin: https://www.linkedin.com/in/takaaki-kurihara/
+- Twitter(English): https://twitter.com/takaaki_jpn
+- Twitter(Japanese): https://twitter.com/taka_kurihara
+
+<br>
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kuritaka)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kuritaka)
 
 <br>
 
@@ -43,7 +51,4 @@
 
 <br>
 
-## How to reach me
-- Linkedin: https://www.linkedin.com/in/takaaki-kurihara/
-- Twitter(English): https://twitter.com/takaaki_jpn
-- Twitter(Japanese): https://twitter.com/taka_kurihara
+
