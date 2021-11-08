@@ -5,6 +5,7 @@
 
 ## How to reach me
 - Linkedin: https://www.linkedin.com/in/takaaki-kurihara/
+- Medium: https://takaaki-kurihara.medium.com/
 - Twitter(English): https://twitter.com/takaaki_jpn
 - Twitter(Japanese): https://twitter.com/taka_kurihara
 
