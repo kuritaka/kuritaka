@@ -21,24 +21,24 @@
 
 ## My Private GitHub Project
 ### Web System
-- [kuritaka/SimpleIPAM](https://github.com/kuritaka/SimpleIPAM) - Simple IP address management
-- [kuritaka/mydictionaryreader](https://github.com/kuritaka/mydictionaryreader) - MyDictionaryReader is a web system to search with dictionaries. 
-- [kuritaka/Excel2DokuWiki](https://github.com/kuritaka/excel2dokuwiki) - converter between Excel and DokuWiki formats
-- [kuritaka/webtestreader](https://github.com/kuritaka/webtestreader) - Drag and drop the text file to display it in your browser
-- [kuritaka/dokuwiki-template-kurity](https://github.com/kuritaka/dokuwiki-template-kurity) - Kurity DokuWiki Template
+- [SimpleIPAM](https://github.com/kuritaka/SimpleIPAM) - Simple IP address management
+- [mydictionaryreader](https://github.com/kuritaka/mydictionaryreader) - MyDictionaryReader is a web system to search with dictionaries. 
+- [Excel2DokuWiki](https://github.com/kuritaka/excel2dokuwiki) - converter between Excel and DokuWiki formats
+- [webtestreader](https://github.com/kuritaka/webtestreader) - Drag and drop the text file to display it in your browser
+- [dokuwiki-template-kurity](https://github.com/kuritaka/dokuwiki-template-kurity) - Kurity DokuWiki Template
 
 
 ### CLI Tools
-- [kuritaka/fasthandle2](https://github.com/kuritaka/fasthandle2) - Deployment tool to Execute Remote Command Over SSH like Python Fabric
-- [kuritaka/fasthandle2-samples](https://github.com/kuritaka/fasthandle2-samples) - Shell Scripts Samples for FastHandle2
-- [kuritaka/fasthandle](https://github.com/kuritaka/fasthandle) - FastHandle is Python Fabric Framework.
-- [kuritaka/multicast-test-tools](https://github.com/kuritaka/multicast-test-tools) - For Multicast Test
-- [kuritaka/ansible-examples](https://github.com/kuritaka/ansible-examples)
-- [kuritaka/fabric3-python3-examples](https://github.com/kuritaka/fabric3-python3-examples) - Fabric3 with Python3 Examples
-- [kuritaka/fabric2-python3-examples](https://github.com/kuritaka/fabric2-python3-examples) - Fabric2 Examples with Python3
+- [fasthandle2](https://github.com/kuritaka/fasthandle2) - Deployment tool to Execute Remote Command Over SSH like Python Fabric
+- [fasthandle2-samples](https://github.com/kuritaka/fasthandle2-samples) - Shell Scripts Samples for FastHandle2
+- [fasthandle](https://github.com/kuritaka/fasthandle) - FastHandle is Python Fabric Framework.
+- [multicast-test-tools](https://github.com/kuritaka/multicast-test-tools) - For Multicast Test
+- [ansible-examples](https://github.com/kuritaka/ansible-examples)
+- [fabric3-python3-examples](https://github.com/kuritaka/fabric3-python3-examples) - Fabric3 with Python3 Examples
+- [fabric2-python3-examples](https://github.com/kuritaka/fabric2-python3-examples) - Fabric2 Examples with Python3
 
 ### My Environment
-- [kuritaka/dotfiles](https://github.com/kuritaka/dotfiles)
+- [dotfiles](https://github.com/kuritaka/dotfiles)
 
 
 <br>
