@@ -33,7 +33,7 @@
 - [fasthandle2](https://github.com/kuritaka/fasthandle2) - Deployment tool to Execute Remote Command Over SSH like Python Fabric
 - [fasthandle2-samples](https://github.com/kuritaka/fasthandle2-samples) - Shell Scripts Samples for FastHandle2
 - [fasthandle](https://github.com/kuritaka/fasthandle) - FastHandle is Python Fabric Framework.
-- [multicast-test-tools](https://github.com/kuritaka/multicast-test-tools) - For Multicast Test
+- [multicast-test-tools](https://github.com/kuritaka/multicast-test-tools) - UDP Multicast Test with Python
 
 
 #### Example
