@@ -1,6 +1,6 @@
 # I'm Takaaki Kurihara. Please call me Taka.
 
-- I'm IT Infrastracture Engineer in Japan 
+- I'm IT Infrastructure Engineer in Japan 
 - Working at Trading Systems | Low Latency
 - 15+ years of experience in Linux, Windows, Networking, and Storage.
 - 15+ years of experience in designing, building and maintaining a highly reliable infrastructure
