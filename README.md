@@ -24,7 +24,7 @@
 - [SimpleIPAM](https://github.com/kuritaka/SimpleIPAM) - Simple IP address management
 - [mydictionaryreader](https://github.com/kuritaka/mydictionaryreader) - MyDictionaryReader is a web system to search with dictionaries. 
 - [Excel2DokuWiki](https://github.com/kuritaka/excel2dokuwiki) - converter between Excel and DokuWiki formats
-- [webtestreader](https://github.com/kuritaka/webtestreader) - Drag and drop the text file to display it in your browser
+- [webtextreader](https://github.com/kuritaka/webtextreader) - Drag and drop the text file to display it in your browser
 - [dokuwiki-template-kurity](https://github.com/kuritaka/dokuwiki-template-kurity) - Kurity DokuWiki Template
 
 <br>
