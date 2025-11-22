@@ -1,9 +1,10 @@
 # I'm Takaaki Kurihara. Please call me Taka.
 
-- I'm IT Infrastructure Engineer in Japan 
-- Working at Trading Systems | Low Latency
-- 15+ years of experience in Linux, Windows, Networking, and Storage.
-- 15+ years of experience in designing, building and maintaining a highly reliable infrastructure
+- Project Lead/Infrastructure Engineer in Japan 
+- Working at Core Banking Systems, Trading Systems | Low Latency
+- 20+ years of experience in Linux, Windows, Networking, and Storage.
+- Team leader who migrated core banking systems to AWS microservices
+- Designed, built and operated infrastructure for HFT (high frequency trading) in a UK data center
 
 
 ## How to reach me
@@ -26,6 +27,11 @@
 - [Excel2DokuWiki](https://github.com/kuritaka/excel2dokuwiki) - converter between Excel and DokuWiki formats
 - [webtextreader](https://github.com/kuritaka/webtextreader) - Drag and drop the text file to display it in your browser
 - [dokuwiki-template-kurity](https://github.com/kuritaka/dokuwiki-template-kurity) - Kurity DokuWiki Template
+
+<br>
+
+### GUI Application
+- [cmdLauncher](https://github.com/kuritaka/cmdLancher) - cmdLauncher is a useful launcher for Microsoft Windows
 
 <br>
 
