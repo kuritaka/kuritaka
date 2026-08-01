@@ -1,22 +1,20 @@
 # I'm Takaaki Kurihara. Please call me Taka.
 
-- Project Lead/Infrastructure Engineer in Japan 
-- Working at Core Banking Systems, Trading Systems | Low Latency
-- 20+ years of experience in Linux, Windows, Networking, and Storage.
-- Team leader who migrated core banking systems to AWS microservices
-- Designed, built and operated infrastructure for HFT (high frequency trading) in a UK data center
+
+I have over 22 years of experience in the financial industry as an infrastructure engineer and engineering manager.
+I have been responsible for the design, construction, and operation of highly available and reliable system infrastructure in securities firms, banks, and FX businesses. I have extensive experience ranging from on-premises to cloud environments, and can provide comprehensive support from servers, storage, networks, security, and operational design.
+In recent years, I have been promoting the construction of cloud-native infrastructure utilizing AWS, Kubernetes, Terraform, Ansible, Datadog, and GitHub Actions. Within the SBI Group, I served as the infrastructure team leader for the first AWS migration project of a bank's core banking system in Japan, leading the process from requirements definition to design, construction, and operation.
+Furthermore, I have experience building low-latency systems for HFT (High-Frequency Trading) infrastructure using FPGAs, GPUs, PTP, Infiniband, and BGP. I have also been involved in the launch of financial services and data center construction in the UK and Hong Kong.
+Beyond technical expertise, I also possess strengths in security and governance areas required by financial institutions, including system risk management, FISC compliance, vulnerability assessment, audit compliance, and change management process development.
+I have experience managing teams of up to 20 people and excel at building integrated systems that combine technology, operations, and security. I continuously learn new technologies and am committed to building the technological foundation that supports the social implementation of cutting-edge technologies and business growth.
+
 
 
 ## How to reach me
 - Linkedin: https://www.linkedin.com/in/takaaki-kurihara/
 - Medium: https://takaaki-kurihara.medium.com/
-- Twitter(English): https://twitter.com/takaaki_jpn
-- Twitter(Japanese): https://twitter.com/taka_kurihara
-
-<br>
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kuritaka)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kuritaka)
+- X(English): https://twitter.com/takaaki_jpn
+- X(Japanese): https://twitter.com/taka_kurihara
 
 <br>
 
@@ -41,6 +39,7 @@
 - [fasthandle](https://github.com/kuritaka/fasthandle) - FastHandle is Python Fabric Framework.
 - [cmdref](https://github.com/kuritaka/cmdref) - Commnad Cheat Sheet/References/examples 
 - [multicast-test-tools](https://github.com/kuritaka/multicast-test-tools) - UDP Multicast Test with Python
+- [small-scripts](https://github.com/kuritaka/small-scripts)
 
 
 #### Example
@@ -55,29 +54,5 @@
 ### My Environment
 - [dotfiles](https://github.com/kuritaka/dotfiles) - My desktop environment
 - [cmdref](https://github.com/kuritaka/cmdref) - Commnad Cheat Sheet/References/examples 
-
-
-<br>
-
-## My GUI Software
-- cmdLauncher - Input search type launcher : https://software.oreda.net/cmdlauncher/
-
-
-<br>
-
-## My Private Sites
-### My Sites in English
-- cmdref.net : https://cmdref.net/ - cmdref.net is command references/cheat sheets/examples for system engineers.
-- OREDA Software : https://software.oreda.net/
-
-### My Sites in Japanese
-- 現場で必要なネットワーク技術入門 : https://network.oreda.net/
-- システムパフォーマンス入門 : http://performance.oreda.net/
-- クラウドのインフラ技術 : http://cloud.oreda.net/
-- 社内インフラの技術 : https://oa.oreda.net/
-- インフラエンジニアのPC環境 : https://pc.oreda.net/
-- DokuWikiで情報発信 : https://dokuwiki.oreda.net/
-
-<br>
 
 
