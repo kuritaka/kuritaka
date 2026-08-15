@@ -22,6 +22,7 @@ I have experience managing teams of up to 20 people and excel at building integr
 ### Web System
 - [SimpleIPAM](https://github.com/kuritaka/SimpleIPAM) - Simple IP address management
 - [mydictionaryreader](https://github.com/kuritaka/mydictionaryreader) - MyDictionaryReader is a web system to search with dictionaries. 
+- [Form for read aloud in Edge](https://github.com/kuritaka/form-for-read-aloud-in-edge) - A simple offline web page for listening and pronunciation practice with Microsoft Edge Read aloud.
 - [Excel2DokuWiki](https://github.com/kuritaka/excel2dokuwiki) - converter between Excel and DokuWiki formats
 - [webtextreader](https://github.com/kuritaka/webtextreader) - Drag and drop the text file to display it in your browser
 - [dokuwiki-template-kurity](https://github.com/kuritaka/dokuwiki-template-kurity) - Kurity DokuWiki Template
