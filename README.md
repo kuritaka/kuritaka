@@ -29,10 +29,15 @@ I have experience managing teams of up to 20 people and excel at building integr
 
 <br>
 
-### GUI Application
+### Windows SoftwareApplication
 - [cmdLauncher](https://github.com/kuritaka/cmdLancher) - cmdLauncher is a useful launcher for Microsoft Windows
 - [mpv.net English Learning Setup](https://github.com/kuritaka/mpv.net_english_learning_pack) - mpv.net English Learning Setup
 - [mpv English Learning Setup](https://github.com/kuritaka/mpv_english_learning_pack) - mpv English Learning Setup
+
+<br>
+
+### Android Application
+- [mpvExtended_english_learning_pack](https://github.com/kuritaka/mpvExtended_english_learning_pack) - English-learning setup for mpvExtended / mpv NAS Player.
 
 <br>
 
